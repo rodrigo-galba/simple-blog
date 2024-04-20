@@ -1,4 +1,0 @@
-baseURL = 'https://rodrigo-galba.github.io/simple-blog/'
-languageCode = 'pt-br'
-title = 'Meu site estático'
-theme = 'hugo-papermod'

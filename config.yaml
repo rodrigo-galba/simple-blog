@@ -1,0 +1,16 @@
+# baseURL: 'https://rodrigo-galba.github.io/simple-blog/'
+# languageCode: 'pt-br'
+# title: 'Meu site estático'
+# theme: 'hugo-papermod'
+
+# If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
+# contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
+title: PaperMod
+copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
+paginate: 5
+theme: [hugo-PaperMod]
+
+minify:
+  disableXML: true
+  # minifyOutput: true

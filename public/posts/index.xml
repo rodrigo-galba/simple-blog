@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Meu site estático</title>
-    <link>https://rodrigo-galba.github.io/simple-blog/posts/</link>
-    <description>Recent content in Posts on Meu site estático</description>
+    <title>Posts on PaperMod</title>
+    <link>https://adityatelange.github.io/hugo-PaperMod/posts/</link>
+    <description>Recent content in Posts on PaperMod</description>
     <generator>Hugo -- 0.125.1</generator>
-    <language>pt-br</language>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://rodrigo-galba.github.io/simple-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adityatelange.github.io/hugo-PaperMod/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

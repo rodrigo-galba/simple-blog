@@ -5,11 +5,11 @@
 
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
-title: PaperMod
-copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
+baseURL: "https://adityatelange.github.io/hugo-papermod/"
+title: papermod
+copyright: "© [papermod Contributors](https://github.com/adityatelange/hugo-papermod/graphs/contributors)"
 paginate: 5
-theme: [hugo-PaperMod]
+theme: [hugo-papermod]
 
 minify:
   disableXML: true

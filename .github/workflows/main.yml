@@ -25,6 +25,15 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Run Trivy vulnerability scanner
+        uses: aquasecurity/trivy-action@master
+        with:
+          scan-type: 'fs'
+          format: 'table'
+          exit-code: '1'
+          ignore-unfixed: true
+          vuln-type: 'os,library'
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
